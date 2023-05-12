@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on challenging projects related to AI or data science. I'm also open to contributing to open-source projects that are aiming to make a difference in these fields.
 
-📫 How to reach me: You can reach me via email at peter1zhang@example.com or connect with me on [LinkedIn](https://www.linkedin.com/in/peter1zhang).
+📫 How to reach me: You can reach me via email at zhangpeter583@gmail.com or connect with me on [LinkedIn]
 
 <!---
 peter1zhang/peter1zhang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
